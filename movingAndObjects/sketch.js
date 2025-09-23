@@ -39,7 +39,8 @@ function drawBall(ball) { // implicit declaration of the variable (parameter) ba
 }
 
 function createBall() {
-  let ball = {}
+  let ball = {} // creating an empty object
+  // assigning properties to that object
   ball.c = color(random(256),random(256),random(256))
   ball.x = width/2;
   ball.y = height/2;
