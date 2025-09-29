@@ -9,3 +9,5 @@
 
 [**Cresent Moon**](crescentMoon/sketch.js) _An example of a composite drawing contained within an object_
 
+[**Multiple Bouncers**](multiBouncers/sketch.js) _Using arrays and loops to manage many things_
+
