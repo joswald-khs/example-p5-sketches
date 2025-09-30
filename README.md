@@ -11,3 +11,5 @@
 
 [**Multiple Bouncers**](multiBouncers/sketch.js) _Using arrays and loops to manage many things_
 
+[**Slitherio**] (sliterio/sketch.js) _Using arrays and loops to manage many things. Also math_
+
