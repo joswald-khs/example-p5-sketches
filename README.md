@@ -18,3 +18,5 @@ Fun with loops! [**Making a grid**](funWithLoops/grid/sketch.js) and [**Position
 [**Saved Drawings**](savedDrawings/sketch.js) _Using arrays and loops to save positions of the mouse and to redraw them (note: this is not the file saving example)_
 
 Basic CSV [**writing**](basicCSV/writing/sketch.js) and [**reading**](basicCSV/reading/sketch.js)
+
+Basic JSON [**writing**](basicJSON/writing/sketch.js) and [**reading**](basicJSON/reading/sketch.js)
