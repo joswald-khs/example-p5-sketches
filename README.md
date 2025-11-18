@@ -20,3 +20,5 @@ Fun with loops! [**Making a grid**](funWithLoops/grid/sketch.js) and [**Position
 Basic CSV [**writing**](basicCSV/writing/sketch.js) and [**reading**](basicCSV/reading/sketch.js)
 
 Basic JSON [**writing**](basicJSON/writing/sketch.js) and [**reading**](basicJSON/reading/sketch.js)
+
+[**Intro to Vectors**](vector-intro.js)
