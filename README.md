@@ -21,4 +21,4 @@ Basic CSV [**writing**](basicCSV/writing/sketch.js) and [**reading**](basicCSV/r
 
 Basic JSON [**writing**](basicJSON/writing/sketch.js) and [**reading**](basicJSON/reading/sketch.js)
 
-[**Intro to Vectors**](vector-intro.js)
+[**Intro to Vectors**](vector-intro.js), [**Vectors, classes, and adding acceleration**](vectors-classes.js)
