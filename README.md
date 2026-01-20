@@ -7,6 +7,8 @@
 
 [**Data Visualization Example**]
 
+[**Experimental ECA**](CellularAutomata/eca/experimental.js)
+
 ## Semester 1
 
 [**Moving Circles and Using Objects**](movingAndObjects/sketch.js) _using JavaScript objects to keep track of many variables_
